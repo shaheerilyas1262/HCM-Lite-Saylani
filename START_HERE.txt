@@ -1,0 +1,21 @@
+HCM LITE - HOW TO OPEN IN VS CODE (WINDOWS)
+
+IMPORTANT: Do not try to open the ZIP file directly in VS Code.
+
+1. Download this ZIP file.
+2. In Windows File Explorer, open Downloads.
+3. Right-click HCM_Lite_VSCode_READY.zip and choose Extract All...
+4. Click Extract.
+5. Open Visual Studio Code.
+6. Click File > Open Folder...
+7. Select the extracted folder named HCM_Lite_VSCode_READY (not the ZIP file).
+8. Click Select Folder.
+9. In the left Explorer panel, click index.html.
+10. To run the app, either double-click index.html in File Explorer to open it in a browser, or install the Live Server extension in VS Code, then right-click index.html > Open with Live Server.
+
+Project files:
+- index.html
+- css/style.css
+- js/app.js
+
+If Windows shows a security prompt, only continue if you trust the files.
